@@ -11,19 +11,13 @@ table {
   background-color: #FFFFFF;
 }
 
-body {
-  background-color: #A52A2A;
+#noindex {
+  background-image: url(Фотографии/Класс2.jpeg);
 }
 
-#Radik {
+#GallereyG {
   border: 5px solid #808080;
   width:300;
-  border-radius: 50px;
-  background-color: #FFFFFF;
-}
-#Dimon {
-  border: 5px solid #FFFFFF;
-  width: 300;
   border-radius: 50px;
   background-color: #FFFFFF;
 }
@@ -51,7 +45,7 @@ body {
   text-align: center;
 }
 
-a {
+.SuperA {
   color: #008000;
   background-color: #4D3C2A;
   border-radius: 50px;
@@ -59,7 +53,7 @@ a {
 }
 
 
-a:hover {
+.SuperA:hover {
   color: #0000FE;
   background-color: #00001D;
   border-radius: 50px;
@@ -81,4 +75,17 @@ li {
 
 #grey {
   color:grey;
+}
+
+#index {
+  background-color: #FFFFFF;
+}
+
+#indexImg {
+  width: 700px;
+}
+
+
+#Invisible {
+  opacity: 0;
 }
