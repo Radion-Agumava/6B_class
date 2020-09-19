@@ -1,0 +1,84 @@
+h1 {
+  color:#0000FF;
+}
+#foooter {
+  color:#808080;
+}
+
+table {
+  border-color: #000000;
+  color: #000000;
+  background-color: #FFFFFF;
+}
+
+body {
+  background-color: #A52A2A;
+}
+
+#Radik {
+  border: 5px solid #808080;
+  width:300;
+  border-radius: 50px;
+  background-color: #FFFFFF;
+}
+#Dimon {
+  border: 5px solid #FFFFFF;
+  width: 300;
+  border-radius: 50px;
+  background-color: #FFFFFF;
+}
+
+#GallereyH {
+  color: #0000FF;
+  font-size: 30px;
+}
+
+#Names {
+  color: #808080;
+  font-size: 20px;
+}
+#css {
+  color: #FFFFFF;
+  border: 2px solid #FF0000;
+  background-color: #FA4251;
+  border-radius: 50px;
+}
+#SixB {
+  color: #FFFFFF;
+  font-size: 50px;
+  border: 3px solid #6D91C2;
+  background-color: #0000FF;
+  text-align: center;
+}
+
+a {
+  color: #008000;
+  background-color: #4D3C2A;
+  border-radius: 50px;
+  border: 1px solid #008000;
+}
+
+
+a:hover {
+  color: #0000FE;
+  background-color: #00001D;
+  border-radius: 50px;
+  border: 1px solid #0000FE;
+}
+
+li {
+  margin-top: 10px;
+}
+
+
+#blue {
+  color:#0000FF;
+}
+
+#yellow {
+  color: yellow;
+}
+
+#grey {
+  color:grey;
+}
