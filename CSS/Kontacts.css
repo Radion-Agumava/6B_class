@@ -1,23 +1,23 @@
 
 
-#KontactsG {
+.KontactsG {
   border: 5px solid #808080;
-  width:300;
+  width:300px;
   border-radius: 50px;
   background-color: #FFFFFF;
 }
 
 #KontactsBG {
-  background-image: url(КонтактыФон.jpg);
+  background-image: url(../Images/КонтактыФон.jpg);
 }
 
 .KontactsText {
   color: white;
 }
 
-#KontactsPic {
+.KontactsPic {
   border: 5px solid #808080;
-  width:300;
+  width:300px;
   border-radius: 50px;
   background-color: #FFFFFF;
   margin-left: 40px;
