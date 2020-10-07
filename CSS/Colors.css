@@ -1,10 +1,18 @@
-
-#blue {
+.blue {
     color:#0000FF;
 }
-#yellow {
+.yellow {
     color: yellow;
 }
-#grey {
+.grey {
     color:grey;
+}
+.black {
+    color: black;
+}
+.white {
+    color: white;
+}
+.green {
+    color: green;
 }
